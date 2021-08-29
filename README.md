@@ -1,4 +1,4 @@
-:sparkler:Projeto de Xadrez feito em Java :sparkler:
+# Projeto de Xadrez feito em Java ​:sparkler:​
 
 Projeto incrível ministrado pelo professor Nélio Alves.
 
